@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ea63cb2ad7764350ba8dfd1a5f7d03b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mySkin: {fileID: 11400000, guid: 2158c6c32a2f54561848a5c03fc838bc, type: 2}
+  - itemTexture1: {instanceID: 0}
+  - itemTexture2: {instanceID: 0}
+  - itemTexture3: {instanceID: 0}
+  - itemTexture4: {instanceID: 0}
+  - itemTexture5: {instanceID: 0}
+  - itemTexture6: {instanceID: 0}
+  - aTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
